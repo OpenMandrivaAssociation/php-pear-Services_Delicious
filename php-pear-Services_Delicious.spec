@@ -5,7 +5,7 @@
 
 Summary:	%{_pearname} - Client for the del.icio.us web service
 Name:		php-pear-%{_pearname}
-Version:	0.3.0
+Version:	0.5.0
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
