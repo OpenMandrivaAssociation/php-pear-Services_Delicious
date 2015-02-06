@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.5.0
-Release:	9
+Release:	10
 Summary:	Client for the del.icio.us web service
 License:	PHP License
 Group:		Development/PHP
